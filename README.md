@@ -1,17 +1,10 @@
-<!--
-🔥 README de perfil para GitHub — Diego Daniel Magdaleno (Botmedude)
-Consejos:
-- Este README se muestra en tu perfil si el repo se llama EXACTAMENTE como tu usuario: Botmedude
-- Si cambias de usuario, reemplaza "Botmedude" en las URLs de abajo.
--->
-
 <!-- Encabezado con banner ondulado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=¡Hola!%20Soy%20Diego%20Magdaleno&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Banner de bienvenida" />
 </p>
 
 <!-- Presentación breve -->
-<h3 align="center">Ingeniero en Software en formación · Kotlin · Laravel · APIs REST · Android (Jetpack Compose)</h3>
+<h3 align="center">Ingeniero en Software en formación · Kotlin · Laravel </h3>
 
 <p align="center">
   <a href="mailto:dmagdalenomedina@gmail.com">
@@ -27,9 +20,9 @@ Consejos:
 
 ## 🙋‍♂️ Sobre mí
 - 🎓 Estudiante de **Ingeniería en Software** (UPP).
-- 💡 Me enfoco en **APIs limpias y escalables**, **apps Android** con **Jetpack Compose** y buenas prácticas de versión (GitFlow, Conventional Commits).
+- 💡 Me enfoco en los procesos del desarrollo de software.
 - 🧪 Me gusta documentar, testear y perfilar antes de optimizar.
-- 🚀 Objetivo actual: consolidar un portafolio sólido con apps móviles y servicios backend bien documentados.
+- 🚀 Objetivo actual: Trabajar con nuevas empresas para consolidar un portafolio solido.
 
 ---
 
@@ -60,10 +53,9 @@ Consejos:
 ---
 
 ## 📌 Proyectos destacados
-> Cuando publiques tus repos, fija (pin) los mejores desde tu perfil para que aparezcan arriba.
 
 - **Utopía – App de tienda de ropa (Android + Laravel API)**
-  - Login/registro, recuperación con verificación, **autenticación biométrica**.
+  - Login/registro, recuperación con verificación.
   - **Jetpack Compose + Material 3**, consumo de API (Laravel), manejo de imágenes.
   - 🧪 En proceso: testing de endpoints, manejo offline básico y caching.
 
